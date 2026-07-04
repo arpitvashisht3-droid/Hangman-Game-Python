@@ -1,0 +1,22 @@
+word_list = [
+    "apple", "banana", "orange", "grape", "mango", "peach", "cherry", "lemon", "melon", "pear",
+    "car", "train", "plane", "bicycle", "scooter", "truck", "bus", "boat", "rocket", "submarine",
+    "computer", "keyboard", "monitor", "mouse", "printer", "laptop", "tablet", "internet", "browser", "software",
+    "python", "variable", "function", "integer", "string", "boolean", "object", "module", "package", "compiler",
+    "school", "college", "teacher", "student", "library", "notebook", "pencil", "eraser", "marker", "backpack",
+    "football", "cricket", "tennis", "badminton", "hockey", "volleyball", "baseball", "boxing", "swimming", "cycling",
+    "guitar", "piano", "violin", "drums", "trumpet", "flute", "microphone", "concert", "melody", "rhythm",
+    "mountain", "river", "forest", "desert", "ocean", "island", "valley", "waterfall", "volcano", "glacier",
+    "elephant", "tiger", "lion", "giraffe", "zebra", "monkey", "rabbit", "penguin", "dolphin", "kangaroo",
+    "doctor", "engineer", "scientist", "lawyer", "chef", "pilot", "artist", "farmer", "firefighter", "mechanic",
+    "camera", "picture", "holiday", "journey", "adventure", "camping", "backpack", "passport", "airport", "beach",
+    "coffee", "tea", "pizza", "burger", "sandwich", "pasta", "noodles", "chocolate", "icecream", "popcorn",
+    "window", "garden", "kitchen", "bedroom", "balcony", "ceiling", "curtain", "mirror", "pillow", "blanket",
+    "diamond", "emerald", "crystal", "treasure", "castle", "kingdom", "pirate", "knight", "wizard", "dragon",
+    "planet", "galaxy", "comet", "asteroid", "satellite", "spaceship", "astronaut", "telescope", "gravity", "meteor",
+    "sunshine", "rainbow", "thunder", "lightning", "snowflake", "hurricane", "tornado", "breeze", "cloud", "storm",
+    "friend", "family", "brother", "sister", "parent", "cousin", "neighbour", "partner", "teammate", "stranger",
+    "bottle", "wallet", "helmet", "umbrella", "watch", "glasses", "pocket", "jacket", "suitcase", "necklace",
+    "success", "failure", "dream", "future", "freedom", "victory", "challenge", "journey", "courage", "wisdom",
+    "museum", "stadium", "hospital", "station", "market", "restaurant", "cinema", "theatre", "factory", "university"
+]
